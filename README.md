@@ -1,0 +1,1 @@
+trying curl command to activate subisu internet when it stops by timeout which is run by cronjob
